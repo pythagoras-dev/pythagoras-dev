@@ -13,7 +13,7 @@ I'm Mustapha Mubarak, I'm graduate of Electrical & Computer Engineering
 - ⚡ Fun fact: Self taught developer 😄
 
 
-- ✨ Check out my portfolio for somee of my projects https://pythagoras-porfolio.netlify.app/
+- ✨ Check out my portfolio for some of my projects https://pythagoras-porfolio.netlify.app/
 <!--**pythagoras-dev/pythagoras-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
