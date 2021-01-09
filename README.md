@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Mustapha Mubarak, I'm graduate of Electrical & Computer Engineering
+I'm Mustapha Mubarak
 
 - My main area of expertise is Frontend Development.
 
