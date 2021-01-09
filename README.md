@@ -1,5 +1,11 @@
 ### Hi there 👋
+I'm Mustapha Mubarak, I'm graduate of Electrical & Computer Engineering
 
+- My main area of expertise is Frontend Development.
+
+- I use HTML, CSS (Bootstrap and Sass) & JS (React) for responsive interactive webpages and web apps.
+
+- I also have  experience with backend development using NodeJS, database development with MySql and Git version Control.
 
 - 🔭 I’m currently working on Frontend Mentors Chanllenge ...
 - 🌱 I’m currently learning React ...
