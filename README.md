@@ -3,7 +3,7 @@ I'm Mustapha Mubarak, I'm graduate of Electrical & Computer Engineering
 
 - My main area of expertise is Frontend Development.
 
-- I use HTML, CSS (Bootstrap and Sass) & JS (React) for responsive interactive webpages and web apps.
+- I use HTML, CSS (Bootstrap and Sass) & JS (React) for responsive, interactive webpages and web apps.
 
 - I also have  experience with backend development using NodeJS, database development with MySql and Git version Control.
 
@@ -12,6 +12,8 @@ I'm Mustapha Mubarak, I'm graduate of Electrical & Computer Engineering
 - 📫 How to reach me: pythagoras.dev15@gmail.com ...
 - ⚡ Fun fact: Self taught developer 😄
 
+
+- ✨ Check out my portfolio for somee of my projects https://pythagoras-porfolio.netlify.app/
 <!--**pythagoras-dev/pythagoras-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
